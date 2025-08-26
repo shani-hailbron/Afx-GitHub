@@ -30,7 +30,7 @@ API will be available at http://localhost:5056
 ## Frontend (Angular 18 + Bootstrap)
 1. Open terminal in .../fnx-github-search-client
 2. run npm install
-3. ng serve run
+3. run ng serve 
 
 Run   http://localhost:4200/
 
