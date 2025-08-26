@@ -1,0 +1,17 @@
+D:\afx\GitHubSearchApi\GitHubSearch.Services\bin\Debug\net8.0\GitHubSearch.Services.deps.json
+D:\afx\GitHubSearchApi\GitHubSearch.Services\bin\Debug\net8.0\GitHubSearch.Services.dll
+D:\afx\GitHubSearchApi\GitHubSearch.Services\bin\Debug\net8.0\GitHubSearch.Services.pdb
+D:\afx\GitHubSearchApi\GitHubSearch.Services\bin\Debug\net8.0\GitHubSearch.Interfaces.dll
+D:\afx\GitHubSearchApi\GitHubSearch.Services\bin\Debug\net8.0\GitHubSearch.Interfaces.pdb
+D:\afx\GitHubSearchApi\GitHubSearch.Services\obj\Debug\net8.0\GitHubSearch.Services.csproj.AssemblyReference.cache
+D:\afx\GitHubSearchApi\GitHubSearch.Services\obj\Debug\net8.0\GitHubSearch.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\afx\GitHubSearchApi\GitHubSearch.Services\obj\Debug\net8.0\GitHubSearch.Services.AssemblyInfoInputs.cache
+D:\afx\GitHubSearchApi\GitHubSearch.Services\obj\Debug\net8.0\GitHubSearch.Services.AssemblyInfo.cs
+D:\afx\GitHubSearchApi\GitHubSearch.Services\obj\Debug\net8.0\GitHubSearch.Services.csproj.CoreCompileInputs.cache
+D:\afx\GitHubSearchApi\GitHubSearch.Services\obj\Debug\net8.0\GitHubSe.AA8ABC61.Up2Date
+D:\afx\GitHubSearchApi\GitHubSearch.Services\obj\Debug\net8.0\GitHubSearch.Services.dll
+D:\afx\GitHubSearchApi\GitHubSearch.Services\obj\Debug\net8.0\refint\GitHubSearch.Services.dll
+D:\afx\GitHubSearchApi\GitHubSearch.Services\obj\Debug\net8.0\GitHubSearch.Services.pdb
+D:\afx\GitHubSearchApi\GitHubSearch.Services\obj\Debug\net8.0\ref\GitHubSearch.Services.dll
+D:\afx\GitHubSearchApi\GitHubSearch.Services\bin\Debug\net8.0\GitHubSearch.Core.dll
+D:\afx\GitHubSearchApi\GitHubSearch.Services\bin\Debug\net8.0\GitHubSearch.Core.pdb

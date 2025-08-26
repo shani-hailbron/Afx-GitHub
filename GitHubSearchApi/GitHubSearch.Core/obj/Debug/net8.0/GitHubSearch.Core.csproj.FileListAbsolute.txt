@@ -1,0 +1,11 @@
+D:\afx\GitHubSearchApi\GitHubSearch.Core\bin\Debug\net8.0\GitHubSearch.Core.deps.json
+D:\afx\GitHubSearchApi\GitHubSearch.Core\bin\Debug\net8.0\GitHubSearch.Core.dll
+D:\afx\GitHubSearchApi\GitHubSearch.Core\bin\Debug\net8.0\GitHubSearch.Core.pdb
+D:\afx\GitHubSearchApi\GitHubSearch.Core\obj\Debug\net8.0\GitHubSearch.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\afx\GitHubSearchApi\GitHubSearch.Core\obj\Debug\net8.0\GitHubSearch.Core.AssemblyInfoInputs.cache
+D:\afx\GitHubSearchApi\GitHubSearch.Core\obj\Debug\net8.0\GitHubSearch.Core.AssemblyInfo.cs
+D:\afx\GitHubSearchApi\GitHubSearch.Core\obj\Debug\net8.0\GitHubSearch.Core.csproj.CoreCompileInputs.cache
+D:\afx\GitHubSearchApi\GitHubSearch.Core\obj\Debug\net8.0\GitHubSearch.Core.dll
+D:\afx\GitHubSearchApi\GitHubSearch.Core\obj\Debug\net8.0\refint\GitHubSearch.Core.dll
+D:\afx\GitHubSearchApi\GitHubSearch.Core\obj\Debug\net8.0\GitHubSearch.Core.pdb
+D:\afx\GitHubSearchApi\GitHubSearch.Core\obj\Debug\net8.0\ref\GitHubSearch.Core.dll

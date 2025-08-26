@@ -1,0 +1,11 @@
+D:\afx\GitHubSearchApi\GitHubSearch.Interfaces\bin\Debug\net8.0\GitHubSearch.Interfaces.deps.json
+D:\afx\GitHubSearchApi\GitHubSearch.Interfaces\bin\Debug\net8.0\GitHubSearch.Interfaces.dll
+D:\afx\GitHubSearchApi\GitHubSearch.Interfaces\bin\Debug\net8.0\GitHubSearch.Interfaces.pdb
+D:\afx\GitHubSearchApi\GitHubSearch.Interfaces\obj\Debug\net8.0\GitHubSearch.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\afx\GitHubSearchApi\GitHubSearch.Interfaces\obj\Debug\net8.0\GitHubSearch.Interfaces.AssemblyInfoInputs.cache
+D:\afx\GitHubSearchApi\GitHubSearch.Interfaces\obj\Debug\net8.0\GitHubSearch.Interfaces.AssemblyInfo.cs
+D:\afx\GitHubSearchApi\GitHubSearch.Interfaces\obj\Debug\net8.0\GitHubSearch.Interfaces.csproj.CoreCompileInputs.cache
+D:\afx\GitHubSearchApi\GitHubSearch.Interfaces\obj\Debug\net8.0\GitHubSearch.Interfaces.dll
+D:\afx\GitHubSearchApi\GitHubSearch.Interfaces\obj\Debug\net8.0\refint\GitHubSearch.Interfaces.dll
+D:\afx\GitHubSearchApi\GitHubSearch.Interfaces\obj\Debug\net8.0\GitHubSearch.Interfaces.pdb
+D:\afx\GitHubSearchApi\GitHubSearch.Interfaces\obj\Debug\net8.0\ref\GitHubSearch.Interfaces.dll

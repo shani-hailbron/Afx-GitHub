@@ -1,0 +1,8 @@
+<h1 class="h4 mb-3"> My Bookmarks</h1>
+<div *ngIf="!list.length" class="alert alert-info">No items saved yet.</div>
+
+<div class="row g-3" *ngIf="list.length">
+    <div class="col-12 col-sm-6 col-lg-4 col-xl-3" *ngFor="let r of list">
+        <app-repo-card [repo]="r" [bookmarked]="true" (toggleBookmark)="remove(r)"></app-repo-card>
+    </div>
+</div>

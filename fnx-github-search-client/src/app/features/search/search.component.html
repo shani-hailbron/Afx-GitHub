@@ -1,0 +1,20 @@
+<div class="card p-3 mb-4">
+    <form (ngSubmit)="search()" class="d-flex gap-2">
+        <input type="text" class="form-control" placeholder="Enter a repository name to search…" [(ngModel)]="query" name="query"
+            (input)="onInput()">
+        <button class="btn btn-brand" type="submit" [disabled]="searching">{{ searching ? 'Searching...' : 'Search' }}</button>
+    </form>
+</div>
+
+<div *ngIf="error" class="alert alert-danger">{{ error }}</div>
+
+<div *ngIf="!searching && results().length === 0 && !error" class="text-center text-muted py-5">
+    Start searching to see results
+</div>
+
+<div class="row g-3 mt-3" *ngIf="results().length">
+    <div class="col-12 col-sm-6 col-lg-4 col-xl-3" *ngFor="let r of results()">
+        <app-repo-card [repo]="r" [bookmarked]="isBookmarked(r.id)"
+            (toggleBookmark)="toggleBookmark($event)"></app-repo-card>
+    </div>
+</div>
