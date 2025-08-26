@@ -18,6 +18,8 @@ This project allows users to search GitHub repositories and save bookmarks. It c
 -------------------------------------------------------
 ## Setup & Run
 
+!! open folder and run in  terminal: `git clone https://github.com/shani-hailbron/Afx-GitHub.git'
+
 ### Backend (.NET 8 API)
 1. Open terminal in `.../GitHubSearchApi/GitHubSearchApi` (Please note that the GitHubSearchApi.csproj folder)
 2. Install dependencies if needed
@@ -28,7 +30,7 @@ API will be available at http://localhost:5056
 
 
 ## Frontend (Angular 18 + Bootstrap)
-1. Open terminal in .../fnx-github-search-client
+1. Open terminal in `.../fnx-github-search-client`
 2. run npm install
 3. run ng serve 
 
