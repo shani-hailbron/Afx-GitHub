@@ -18,7 +18,7 @@ This project allows users to search GitHub repositories and save bookmarks. It c
 -------------------------------------------------------
 ## Setup & Run
 
-!! open folder and run in  terminal: `git clone https://github.com/shani-hailbron/Afx-GitHub.git'
+!! open folder and run in  terminal: `git clone https://github.com/shani-hailbron/Afx-GitHub.git`
 
 ### Backend (.NET 8 API)
 1. Open terminal in `.../GitHubSearchApi/GitHubSearchApi` (Please note that the GitHubSearchApi.csproj folder)
